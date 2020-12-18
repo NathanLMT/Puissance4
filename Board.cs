@@ -13,7 +13,7 @@ namespace Puissance4
                 new Colonne(),
                 new Colonne(),
                 new Colonne(),
-                new Colonne();
+                new Colonne(),
                 new Colonne(),
                 new Colonne(),
                 new Colonne(),
